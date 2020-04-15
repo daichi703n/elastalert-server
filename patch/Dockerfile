@@ -1,4 +1,4 @@
-FROM servercentral/elastalert
+FROM jfcantu/elastalert:v0.1.1
 
 LABEL maintainer="Daichi Kimura <daichi703n@gmail.com>"
 ENV TZ Etc/UTC
